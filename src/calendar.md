@@ -25,3 +25,7 @@ Other events where thin-edge team must be present but not confirmed yet.
 |Embedded IOT summit Europe           |Dublin         |13-16 September 2022|www.linuxfoundation.org        |                          |
 |Embedded technology convention       |Singapore      |28-29 September 2022|www.embeddedtechconventionasia.com/                       |
 |Community leadership conference      |Dublin         |13-16 September 2022|www.linuxfoundation.org        |                          |
+|                                     |               |                    |                               |                          |
+|Hardware Pioneers Max 	              |London         |25 October 2022     |www.hardwarepioneers.com/      |                          |
+|IEEE 8th World Forum on Internet of Things|Yokohama  |26/10-11/11 2022    |wfiot2022.iot.ieee.org/        |                          |
+|Internet of Things – vom Sensor bis zur Cloud| Munich|11 October 2022     |events.weka-fachmedien.de/internet-of-things/home/        |                          |

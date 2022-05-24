@@ -22,5 +22,5 @@ Other events where thin-edge team might be present but not confirmed yet.
 |We are developer World Congress      |Berlin         |14-15 June 2022     |www.wearedevelopers.com        |                          |
 |Infobip Shift conference             |Zadar          |19-20 September 2022|shift.infobip.com/             |                          |
 |Embedded IOT summit Europe           |Dublin         |13-16 September 2022|www.linuxfoundation.org        |                          |
-|Embedded technology convention       |Singapore      |28-19 September 2022|www.embeddedtechconventionasia.com/                       |
+|Embedded technology convention       |Singapore      |28-29 September 2022|www.embeddedtechconventionasia.com/                       |
 |Community leadership conference      |Dublin         |13-16 September 2022|www.linuxfoundation.org        |                          |

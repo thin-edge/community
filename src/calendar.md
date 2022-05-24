@@ -1,7 +1,7 @@
 
-# Event calendar for 2022
+## Event calendar for 2022
 
-In this calendar we will post the events where the thin-edge team is present.
+In this calendar we will post the events where the thin-edge mmber is present.
 
 
 
@@ -10,6 +10,9 @@ In this calendar we will post the events where the thin-edge team is present.
 |Building IoT 2022                    |Karlsruhe      |9-11 May 2022       |www.buildingiot.de             |Christoph Stoidner        |
 |Open Source summit                   |Austin         |21-24 June 2022     |www.linuxfoundation.org        |Hans Boef (tbc)           |
 |We are developer World Congress      |Berlin         |14-15 June 2022     |www.wearedevelopers.com        |Stefan Witschel           |
+
+
+## Other events
 
 Other events where thin-edge team must be present but not confirmed yet.
 

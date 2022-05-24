@@ -28,4 +28,13 @@ Other events where thin-edge team must be present but not confirmed yet.
 |                                     |               |                    |                               |                          |
 |Hardware Pioneers Max 	              |London         |25 October 2022     |www.hardwarepioneers.com/      |                          |
 |IEEE 8th World Forum on Internet of Things|Yokohama  |26/10-11/11 2022    |wfiot2022.iot.ieee.org/        |                          |
-|Internet of Things – vom Sensor bis zur Cloud| Munich|11 October 2022     |events.weka-fachmedien.de/internet-of-things/home/        |                          |
+|Internet of Things – vom Sensor bis zur Cloud| Munich|11 October 2022     |events.weka-fachmedien.de/internet-of-things/home/        | 
+|Embedded wireless systems and networks|Linz          |3-5 October 2022    |ewsn2022.jku.at/               |                          |
+|All things open                      |Raleigh        |30/10-2/11 2022     |2021.allthingsopen.org/save-the-date-2022/|               |
+|IoT Tech Expo                        |Santa Clara    |5-6 October 2022    |www.iottechexpo.com/northamerica/ |                       |
+|                                     |               |                    |                               |                          |
+|Websummit                            |Lisbon         |1-4 November 2022   |websummit.com/                 |                          |
+|IoT 2022                             |Delft          |7-10 November 2022  |iot-conference.org/iot2022/    |                          |
+|IoT World                            |Austin         |2-3 November 2022   |tmt.knect365.com/iot-world/    |                          |
+|                                     |               |                    |                               |                          |
+|IoT Tech Expo Global                 |London         |1-2 December 2022   |www.iottechexpo.com/global/    |                          |

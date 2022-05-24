@@ -1,1 +1,1 @@
-# community
+# thin-edge community

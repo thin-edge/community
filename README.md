@@ -7,4 +7,4 @@ Here we will post all kinds of information regarding the thin-edge.io community.
 
 ps this will be constantly updated with the latest info we have. so check often!
 
-1. thin-edge.io members participating in [events](/main/src/calendar.md)
+1. thin-edge.io members participating in [events](/calendar.md)

@@ -24,6 +24,8 @@ Other events where thin-edge team must be present but not confirmed yet.
 |Embedded technology convention       |Las Vegas      |8-9 June 2022       |www.embeddedtechconvention.com/|                          |
 |We are developer World Congress      |Berlin         |14-15 June 2022     |www.wearedevelopers.com        |                          |
 |                                     |               |                    |                               |                          |
+|Scale 19 Linux Expo                  |Los Angeles    |28-31 July 2022     |www.socallinuxexpo.org/scale/19x|                         |
+|                                     |               |                    |                               |                          |
 |Infobip Shift conference             |Zadar          |19-20 September 2022|shift.infobip.com/             |                          |
 |Embedded IOT summit Europe           |Dublin         |13-16 September 2022|www.linuxfoundation.org        |                          |
 |Embedded technology convention       |Singapore      |28-29 September 2022|www.embeddedtechconventionasia.com/                       |

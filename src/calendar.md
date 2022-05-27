@@ -9,12 +9,15 @@ In this calendar we will post the events where the thin-edge mmber is present.
 |-------------------------------------|---------------|--------------------|-------------------------------|--------------------------|
 |Building IoT 2022                    |Karlsruhe      |9-11 May 2022       |www.buildingiot.de             |Christoph Stoidner        |
 |We are developer World Congress      |Berlin         |14-15 June 2022     |www.wearedevelopers.com        |Stefan Witschel           |
+|Embedded IOT summit Europe           |Dublin         |13-16 September 2022|www.linuxfoundation.org        |                          |
+|Community leadership conference      |Dublin         |13-16 September 2022|www.linuxfoundation.org        |                          |
+|Internet of Things – vom Sensor bis zur Cloud| Munich|11 October 2022     |events.weka-fachmedien.de/internet-of-things/home/        | 
 
 
 ## Other events
 
 Other events where thin-edge team must be present but not confirmed yet.
-'''diff
+
 |Event name                           |City           |Date                |Link                           | Who                      |
 |-------------------------------------|---------------|--------------------|-------------------------------|--------------------------|
 |Internet of things conference        |Munich         |27-29 June 2022     |iotcon.de                      |                          |

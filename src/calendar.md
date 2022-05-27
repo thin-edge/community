@@ -8,14 +8,13 @@ In this calendar we will post the events where the thin-edge mmber is present.
 |Event name                           |City           |Date                |Link                           | Who                      |
 |-------------------------------------|---------------|--------------------|-------------------------------|--------------------------|
 |Building IoT 2022                    |Karlsruhe      |9-11 May 2022       |www.buildingiot.de             |Christoph Stoidner        |
-|Open Source summit                   |Austin         |21-24 June 2022     |www.linuxfoundation.org        |Hans Boef (tbc)           |
 |We are developer World Congress      |Berlin         |14-15 June 2022     |www.wearedevelopers.com        |Stefan Witschel           |
 
 
 ## Other events
 
 Other events where thin-edge team must be present but not confirmed yet.
-
+'''diff
 |Event name                           |City           |Date                |Link                           | Who                      |
 |-------------------------------------|---------------|--------------------|-------------------------------|--------------------------|
 |Internet of things conference        |Munich         |27-29 June 2022     |iotcon.de                      |                          |
@@ -40,6 +39,5 @@ Other events where thin-edge team must be present but not confirmed yet.
 |                                     |               |                    |                               |                          |
 |Websummit                            |Lisbon         |1-4 November 2022   |websummit.com/                 |                          |
 |IoT 2022                             |Delft          |7-10 November 2022  |iot-conference.org/iot2022/    |                          |
-|IoT World                            |Austin         |2-3 November 2022   |tmt.knect365.com/iot-world/    |                          |
 |                                     |               |                    |                               |                          |
 |IoT Tech Expo Global                 |London         |1-2 December 2022   |www.iottechexpo.com/global/    |                          |

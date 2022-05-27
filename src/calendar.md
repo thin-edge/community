@@ -1,7 +1,7 @@
 
 ## Event calendar for 2022
 
-In this calendar we will post the events where the thin-edge mmber is present.
+In this calendar we will post the events where the thin-edge member is present.
 
 
 
@@ -12,11 +12,13 @@ In this calendar we will post the events where the thin-edge mmber is present.
 |Embedded IOT summit Europe           |Dublin         |13-16 September 2022|www.linuxfoundation.org        |                          |
 |Community leadership conference      |Dublin         |13-16 September 2022|www.linuxfoundation.org        |                          |
 |Internet of Things – vom Sensor bis zur Cloud| Munich|11 October 2022     |events.weka-fachmedien.de/internet-of-things/home/        | 
+|All things open                      |Raleigh        |30/10-2/11 2022     |2021.allthingsopen.org/save-the-date-2022/|               |
+|Websummit                            |Lisbon         |1-4 November 2022   |websummit.com/                 |                          |
 
 
 ## Other events
 
-Other events where thin-edge team must be present but not confirmed yet.
+Other events  in relation to Embedded software/hardware and IoT.
 
 |Event name                           |City           |Date                |Link                           | Who                      |
 |-------------------------------------|---------------|--------------------|-------------------------------|--------------------------|

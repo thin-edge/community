@@ -1,7 +1,7 @@
 
 ## Event calendar for 2022
 
-In this calendar we will post the events where the thin-edge member is present.
+In this calendar we will post the events where thin-edge team members is present.
 
 
 
@@ -11,10 +11,7 @@ In this calendar we will post the events where the thin-edge member is present.
 |We are developer World Congress      |Berlin         |14-15 June 2022     |www.wearedevelopers.com        |Stefan Witschel           |
 |Embedded IOT summit Europe           |Dublin         |13-16 September 2022|www.linuxfoundation.org        |                          |
 |Community leadership conference      |Dublin         |13-16 September 2022|www.linuxfoundation.org        |                          |
-|Internet of Things – vom Sensor bis zur Cloud| Munich|11 October 2022     |events.weka-fachmedien.de/internet-of-things/home/        | 
-|All things open                      |Raleigh        |30/10-2/11 2022     |2021.allthingsopen.org/save-the-date-2022/|               |
-|Websummit                            |Lisbon         |1-4 November 2022   |websummit.com/                 |                          |
-
+|Things Conference                    |Amsterdam      |22-23 September 2022|https://www.thethingsnetwork.org/conference/|             |
 
 ## Other events
 

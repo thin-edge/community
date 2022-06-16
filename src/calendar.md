@@ -25,7 +25,8 @@ Other events  in relation to Embedded software/hardware and IoT.
 |Mediterranean Conf. on emb.computing |Budva          |7-10 June 2022      |mecoconference.me              |                          |
 |Embedded technology convention       |Las Vegas      |8-9 June 2022       |www.embeddedtechconvention.com/|                          |
 |We are developer World Congress      |Berlin         |14-15 June 2022     |www.wearedevelopers.com        |                          |
-|                                     |               |                    |                               |                          |
+|Embedded world                       |Nuremberg      |21-23 June 2022     |https://www.embedded-world.de/en|                         |      
+|                                     |               |                    |                               |                          | 
 |Scale 19 Linux Expo                  |Los Angeles    |28-31 July 2022     |www.socallinuxexpo.org/scale/19x|                         |
 |                                     |               |                    |                               |                          |
 |Infobip Shift conference             |Zadar          |19-20 September 2022|shift.infobip.com/             |                          |

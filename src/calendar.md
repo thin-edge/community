@@ -11,7 +11,8 @@ In this calendar we will post the events where thin-edge team members is present
 |We are developer World Congress      |Berlin         |14-15 June 2022     |www.wearedevelopers.com        |Stefan Witschel           |
 |Embedded IOT summit Europe           |Dublin         |13-16 September 2022|www.linuxfoundation.org        |                          |
 |Community leadership conference      |Dublin         |13-16 September 2022|www.linuxfoundation.org        |                          |
-|Things Conference                    |Amsterdam      |22-23 September 2022|https://www.thethingsnetwork.org/conference/|             |
+|Edge Computing Expo                  |Amsterdam      |20-21 September 2022|edgecomputing-expo.com/europe/ | Hans Boef                |
+|Things Conference                    |Amsterdam      |22-23 September 2022|www.thethingsnetwork.org/conference/|                     |
 
 ## Other events
 

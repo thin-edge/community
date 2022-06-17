@@ -5,7 +5,7 @@ In this calendar we will post the events where thin-edge team members is present
 
 
 
-|Event name                           |City           |Date                |Link                           | Who                      |Submitted|
+|Event name                           |City           |Date                |Link                           | Who                      |CFP Submitted|Accepted|
 |-------------------------------------|---------------|--------------------|-------------------------------|--------------------------|---------|
 |Building IoT 2022                    |Karlsruhe      |9-11 May 2022       |www.buildingiot.de             |Christoph Stoidner        | x       |
 |We are developer World Congress      |Berlin         |14-15 June 2022     |www.wearedevelopers.com        |Stefan Witschel           |         |

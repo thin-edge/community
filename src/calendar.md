@@ -55,3 +55,4 @@ Other events  in relation to Embedded software/hardware and IoT.
 | Edge event                          | tbd (London)  |18-19 april         | https://tmt.knect365.com/the-edge-event ||
 | EdgeCon                             | Nashville     |10-11 March 2023    | https://edgeconusa.com/details/ ||
 | Edgeconference 2023                 | Edinburgh     |2-3 March 2023      | https://edgeconference.co.uk/||
+| Embedded Vison Summit               | Santa Clara   |22-25 May 2023      | https://embeddedvisionsummit.com/ ||

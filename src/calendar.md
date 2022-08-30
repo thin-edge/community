@@ -12,22 +12,12 @@ In this calendar we will post the events where thin-edge team members is present
 |Edge Computing Expo                  |Amsterdam      |20-21 September 2022|www.edgecomputing-expo.com/europe/ |Hans Boef                 |         |
 |Things Conference                    |Amsterdam      |22-23 September 2022|www.thethingsnetwork.org/conference/|    Hans Boef        |         |
 
-## Other events
+## Other events 2022
 
 Other events  in relation to Embedded software/hardware and IoT.
 
-|Event name                           |City           |Date                |Link                           | Who                      |
+|Event name                           |City           |Date                |Link                           | Info                     |
 |-------------------------------------|---------------|--------------------|-------------------------------|--------------------------|
-|Internet of things conference        |Munich         |27-29 June 2022     |iotcon.de                      |                          |
-|IoT Week 2022                        |Dublin         |20-23 June 2022     |iotweek.org                    |                          |
-|Mediterranean Conf. on emb.computing |Budva          |7-10 June 2022      |mecoconference.me              |                          |
-|Embedded technology convention       |Las Vegas      |8-9 June 2022       |www.embeddedtechconvention.com/|                          |
-|We are developer World Congress      |Berlin         |14-15 June 2022     |www.wearedevelopers.com        |                          |
-|Embedded world                       |Nuremberg      |21-23 June 2022     |https://www.embedded-world.de/en|                         |      
-|                                     |               |                    |                               |                          | 
-|Scale 19 Linux Expo                  |Los Angeles    |28-31 July 2022     |www.socallinuxexpo.org/scale/19x|                         |
-|                                     |               |                    |                               |                          |
-|Infobip Shift conference             |Zadar          |19-20 September 2022|shift.infobip.com/             |                          |
 |Embedded IOT summit Europe           |Dublin         |13-16 September 2022|www.linuxfoundation.org        |                          |
 |Embedded technology convention       |Singapore      |28-29 September 2022|www.embeddedtechconventionasia.com/                       |
 |Community leadership conference      |Dublin         |13-16 September 2022|www.linuxfoundation.org        |                          |
@@ -43,3 +33,13 @@ Other events  in relation to Embedded software/hardware and IoT.
 |IoT 2022                             |Delft          |7-10 November 2022  |iot-conference.org/iot2022/    |                          |
 |                                     |               |                    |                               |                          |
 |IoT Tech Expo Global                 |London         |1-2 December 2022   |www.iottechexpo.com/global/    |                          |
+
+
+## Other events 2023
+
+Other events  in relation to Embedded software/hardware and IoT.
+
+|Event name                           |City           |Date                |Link                           |Info                     |
+|-------------------------------------|---------------|--------------------|-------------------------------|--------------------------|
+| Developer week                      | San Francisco |15-23 February 2023 |https://www.developerweek.com/ |Has IoT/hardware track    |
+| Dev Days Europ 2023                 | Vilnius       |25-26 May 2023      |https://devdays.lt/            |Has Iot Track             |

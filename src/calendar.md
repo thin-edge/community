@@ -50,5 +50,8 @@ Other events  in relation to Embedded software/hardware and IoT.
 | IoT Week @ CES                      | Las Vegas     |5-8 January 2023    | https://www.iotm2mcouncil.org/iot-library/event/imc-events/iot-week-ces-2023/||
 | IoT Tech Expo Europe 2023           | Amsterdam     |tbd                 | https://www.iottechexpo.com/europe/| Probably after summer|
 | IoTBDS 2023                         | Prague        |21-23 April         | https://iotbds.scitevents.org/||
-|Industrial IoT Conference            | FT Lauderdale |14-17 February 2023 | https://www.iiotevent.com/east/||
-|IoT World + MtoM -Embedded 2023      | Paris         |19-20 April 2023    | https://www.salon-iot-mtom.com/ ||
+| Industrial IoT Conference           | FT Lauderdale |14-17 February 2023 | https://www.iiotevent.com/east/||
+| IoT World + MtoM -Embedded 2023     | Paris         |19-20 April 2023    | https://www.salon-iot-mtom.com/ ||
+| Edge event                          | tbd (London)  |18-19 april         | https://tmt.knect365.com/the-edge-event ||
+| EdgeCon                             | Nashville     |10-11 March 2023    | https://edgeconusa.com/details/ ||
+| Edgeconference 2023                 | Edinburgh     |2-3 March 2023      | https://edgeconference.co.uk/||

@@ -42,7 +42,7 @@ Other events  in relation to Embedded software/hardware and IoT.
 |Event name                           |City           |Date                |Link                           |Info                     |
 |-------------------------------------|---------------|--------------------|-------------------------------|--------------------------|
 | Developer week                      | San Francisco |15-23 February 2023 | https://www.developerweek.com/|Has IoT/hardware track    |
-| Dev Days Europ 2023                 | Vilnius       |25-26 May 2023      | https://devdays.lt/           |Has Iot Track             |
+| Dev Days Europe 2023                 | Vilnius       |25-26 May 2023      | https://devdays.lt/           |Has Iot Track             |
 | IoT Week 2023                       | Berlin        |June 2023           | https://iotweek.org           |                          |
 | IoT Solutions World Congress        | Barcelona     |31 Jan-2 Feb 2023   | https://www.iotsworldcongress.com/|                      |
 | SXSW                                | Austin        |10-19 March 2023    | https://www.sxsw.com          |                          |

@@ -11,6 +11,7 @@ In this calendar we will post the events where thin-edge team members is present
 |We are developer World Congress      |Berlin         |14-15 June 2022     |www.wearedevelopers.com        |Stefan Witschel           |         |
 |Edge Computing Expo                  |Amsterdam      |20-21 September 2022|www.edgecomputing-expo.com/europe/ |Hans Boef                 |         |
 |Things Conference                    |Amsterdam      |22-23 September 2022|www.thethingsnetwork.org/conference/|    Hans Boef        |         |
+|Hardware Pioneers                    |London         |25 October 2022     |https://www.hardwarepioneers.com/| Phillip Hooker         |   x     |
 
 ## Other events 2022
 
@@ -28,6 +29,7 @@ Other events  in relation to Embedded software/hardware and IoT.
 |Embedded wireless systems and networks|Linz          |3-5 October 2022    |ewsn2022.jku.at/               |                          |
 |All things open                      |Raleigh        |30/10-2/11 2022     |2021.allthingsopen.org/save-the-date-2022/|               |
 |IoT Tech Expo                        |Santa Clara    |5-6 October 2022    |www.iottechexpo.com/northamerica/ |                       |
+|Hardware Pioneers                    |London         |25 October          |https://www.hardwarepioneers.com/|                        |
 |                                     |               |                    |                               |                          |
 |Websummit                            |Lisbon         |1-4 November 2022   |websummit.com/                 |                          |
 |IoT 2022                             |Delft          |7-10 November 2022  |iot-conference.org/iot2022/    |                          |

@@ -28,13 +28,13 @@ Other events  in relation to Embedded software/hardware and IoT.
 |Internet of Things – vom Sensor bis zur Cloud| Munich|11 October 2022     |events.weka-fachmedien.de/internet-of-things/home/        | 
 |Embedded wireless systems and networks|Linz          |3-5 October 2022    |ewsn2022.jku.at/               |                          |
 |All things open                      |Raleigh        |30/10-2/11 2022     |2021.allthingsopen.org/save-the-date-2022/|               |
-|IoT Tech Expo                        |Santa Clara    |5-6 October 2022    |www.iottechexpo.com/northamerica/ |                       |
+|IoT Tech Expo/Edge computing expo                       |Santa Clara    |5-6 October 2022    |www.iottechexpo.com/northamerica/ |                       |
 |Hardware Pioneers                    |London         |25 October          |https://www.hardwarepioneers.com/|                        |
 |                                     |               |                    |                               |                          |
 |Websummit                            |Lisbon         |1-4 November 2022   |websummit.com/                 |                          |
 |IoT 2022                             |Delft          |7-10 November 2022  |iot-conference.org/iot2022/    |                          |
 |                                     |               |                    |                               |                          |
-|IoT Tech Expo Global                 |London         |1-2 December 2022   |www.iottechexpo.com/global/    |                          |
+|IoT Tech Expo/Edge Computing Expo Global                 |London         |1-2 December 2022   |www.iottechexpo.com/global/    |                          |
 
 
 ## Other events 2023

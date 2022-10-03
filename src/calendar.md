@@ -48,30 +48,16 @@ Other events  in relation to Embedded software/hardware and IoT.
 |SXSW                                 |Austin         |March 10-19 2022    |https://www.sxsw.com/          |                          |
 |Embedded IoT World|April 5-7 2022    |Santa Clara    |https://tmt.knect365.com/embedded-iot-world/ |      |                          |
 |Devoxx UK                            |London         |May 11-13 2022      |https://www.devoxx.co.uk/      |                          |
-|Building Iot 2022|Karlsruhe 	|May 10-11 2022|https://www.buildingiot.de/index.php ||
- 	Germany 	 	closed 
-Hannover Messe 	https://www.hannovermesse.de/en/ 
-May 30 - June 2 2022 	Germany 	Hannover 	closed 
-IoT solutions world congress	https://www.iotsworldcongress.com/ 
-May 10-12 2022 	Spain 	Barcelona 	closed 
-TeqNation  	https://teqnation.com/, 
-May 12 2022, 	Netherlands	Utrecht 	closed 
-UK embedded	https://www.ukembedded.co.uk/	May 12 2022	UK	Coventry	closed
-Embedded vision summit	https://embeddedvisionsummit.com/	May 16-19	California	Sant Clara	closed
-Real-Time and embedded systems and technologies	https://rtest2022.iust.ac.ir/	May 30-31	Iran	Tehran	
-Software AG International User Groups conference	https://www.softwareag.com/en_corporate/company/events/iug-conference.html?source=UserGroup-banner	May 30-Jun 3 2022	Netherlands	The Hague	
-						
- 
-June
-Name of event	Url	Date	Country	City	Comments
-Devox Poland 	https://devoxx.pl/ 
-June 22-24 2022 	Poland 	Krakow 	Site not updated 
-TNW Conference 	https://thenextweb.com/conference 
-June 16-17 2022	Netherlands 	Amsterdam 	Hard to speak, except when sponsoring, or C-level 
-Embedded Iot Summit 	https://events.linuxfoundation.org/open-source-summit-north-america/about/embedded-iot-summit/ 
-June 21-24 2022 	Texas 	Austin 	closed part of open source summit
-Embedded world 	https://www.embedded-world.de/en 
-June 21-23 2022 	Germany 	Nuremberg 	closed 
+|Building Iot 2022                    |Karlsruhe      |May 10-11 2022      |https://www.buildingiot.de/index.php |                    |
+|Hannover Messe                       |Hannover       |May 30 - June 2 2022|https://www.hannovermesse.de/en/|                         |
+|IoT solutions world congress         |Barcelona      |May 10-12 2022      |https://www.iotsworldcongress.com/ ||
+|TeqNation                            |Utrecht        |May 12 2022         |https://teqnation.com/,        |                          |
+|UK embedded                          |Coventry       |May 12 2022         |https://www.ukembedded.co.uk/||
+|Devox Poland                         |Krakow         |June 22-24 2022	   |https://devoxx.pl/ ||
+|TNW Conference                       |Amsterdam      |June 16-17 2022	   |https://thenextweb.com/conference ||
+|Embedded Iot Summit                  |Austin         |June 21-24 2022     |https://events.linuxfoundation.org/open-source-summit-north-america/about/embedded-iot-summit/ ||
+|Embedded world                       |Nuremberg      |June 21-23 2022    |https://www.embedded-world.de/en ||
+	
 IoTWeek 2022 	https://iotweek.org/ 
 June 20-23 2022 	Ireland 	Dublin 	closed 
 IoT world forum 	https://iotconferences.org/ 

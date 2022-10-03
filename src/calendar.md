@@ -47,16 +47,9 @@ Other events  in relation to Embedded software/hardware and IoT.
 |-------------------------------------|---------------|--------------------|-------------------------------|--------------------------|
 |SXSW                                 |Austin         |March 10-19 2022    |https://www.sxsw.com/          |                          |
 |Embedded IoT World|April 5-7 2022    |Santa Clara    |https://tmt.knect365.com/embedded-iot-world/ |      |                          |
-
-	
- 	 	 	 	 	 
- 
-May
-Name of event	Url	Date	Country	City	Comments
-Devoxx UK 	https://www.devoxx.co.uk/ 
-May 11-13 2022 	UK 	London 	closed 
-Building Iot 2022 	https://www.buildingiot.de/index.php 
-May 10-11 2022 	Germany 	Karlsruhe 	closed 
+|Devoxx UK                            |London         |May 11-13 2022      |https://www.devoxx.co.uk/      |                          |
+|Building Iot 2022|Karlsruhe 	|May 10-11 2022|https://www.buildingiot.de/index.php ||
+ 	Germany 	 	closed 
 Hannover Messe 	https://www.hannovermesse.de/en/ 
 May 30 - June 2 2022 	Germany 	Hannover 	closed 
 IoT solutions world congress	https://www.iotsworldcongress.com/ 

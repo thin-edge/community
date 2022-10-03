@@ -57,31 +57,25 @@ Other events  in relation to Embedded software/hardware and IoT.
 |TNW Conference                       |Amsterdam      |June 16-17 2022	   |https://thenextweb.com/conference ||
 |Embedded Iot Summit                  |Austin         |June 21-24 2022     |https://events.linuxfoundation.org/open-source-summit-north-america/about/embedded-iot-summit/ ||
 |Embedded world                       |Nuremberg      |June 21-23 2022    |https://www.embedded-world.de/en ||
-|IoTWeek 2022                         |Dublin|June 20-23 2022 |https://iotweek.org/ || 
-|IoT world forum                      |London|June 16-17|https://iotconferences.org/ 
-|Internet of things conference|Munich|June 27-29 2022|https://iotcon.de/en/ 
-|Collision|Toronto|June 20-23 2022 |https://collisionconf.com/ 
-|GOTO Amsterdam|Amsterdam|June 12-16 2022 |https://gotoams.nl/ 
-|IoT Slam Live 2022Cary|June 22-23 2022||https://iotslam.com/
-|Mediterranean Conference on embedded computing|Budva|June 7-10 2022|https://mecoconference.me/
-|Embedded technology convention	|Las Vegas|June 8-9|https://www.embeddedtechconvention.com/	
-|Tweakers developer summit|Utrecht|June 23, 2022|https://tweakers.net/partners/devsummit2022	
-|We are developer World Congress|Berlin|June 14-15 2022|https://www.wearedevelopers.com/world-congress/#/	
-|Viva Tech|Paris|June 15-18 2022|https://vivatechnology.com/	June 15-18 2022	France	Paris	
+|IoTWeek 2022                         |Dublin         |June 20-23 2022    |https://iotweek.org/ || 
+|IoT world forum                      |London         |June 16-17         |https://iotconferences.org/ ||
+|Internet of things conference        |Munich         |June 27-29 2022    |https://iotcon.de/en/ ||
+|Collision                            |Toronto        |June 20-23 2022    |https://collisionconf.com/ ||
+|GOTO Amsterdam                       |Amsterdam      |June 12-16 2022    |https://gotoams.nl/ ||
+|IoT Slam Live 2022                   |Cary           |June 22-23 2022    |https://iotslam.com/ ||
+|Mediterranean Conference on embedded computing|Budva |June 7-10 2022|    |https://mecoconference.me/ ||
+|Embedded technology convention	      |Las Vegas      |June 8-9           |https://www.embeddedtechconvention.com/ ||	
+|Tweakers developer summit            |Utrecht        |June 23, 2022      |https://tweakers.net/partners/devsummit2022	||
+|We are developer World Congress      |Berlin         |June 14-15 2022    |https://www.wearedevelopers.com/world-congress/#/	||
+|Viva Tech                            |Paris          |June 15-18 2022    |https://vivatechnology.com/ ||	
+|Web Expo                             |Prague         |June 10-12 2022    |https://www.webexpo.net/prague2022 ||
+|Debian Conference                    |Prizren        |July 17-24 2022    |https://debconf22.debconf.org||
+|Infobip Shift conference             |Zadar          |September 19-20 2022|https://shift.infobip.com/ ||
+|Embedded IOT summit Europe 	      |Dublin         |September 13-16 2022|https://events.linuxfoundation.org/open-source-summit-europe/ ||
+|IoT Tech Expo Europe                 |Amsterdam      |September 20-2     |https://www.iottechexpo.com/europe/ ||
+|Embedded technology convention	      |Singapore      |September 28-29    |https://www.embeddedtechconventionasia.com/ ||
+|Community leadership conference      |Dublin         |September 13-16 2022|https://events.linuxfoundation.org/open-source-summit-europe/
 
-|Web Expo	https://www.webexpo.net/prague2022	June 10-12 2022	Czech Republic	Prague	closed
-|Debian Conference	Https://debconf22.debconf.org
-	July 17-24 2022 	Kosovo 	Prizren	
-|Infobip Shift conference 	https://shift.infobip.com/ 
-September 19-20 2022	Croatia 	Zadar 	May 31 2022 
-|Embedded IOT summit Europe 	https://events.linuxfoundation.org/open-source-summit-europe/ 
-September 13-16 2022 	Ireland 	Dublin 	May 30 2022 part of open source summit
-|IoT Tech Expo Europe 	https://www.iottechexpo.com/europe/ 
-September 20-2	Netherlands 	Amsterdam 	sponsoring 
-|Embedded technology convention	https://www.embeddedtechconventionasia.com/
-	September 28-29	Singapore	Singapore	
-C|ommunity leadership conference	https://events.linuxfoundation.org/open-source-summit-europe/
-September 13-16 2022	Ireland 	Dublin 	May 30 2022 part of open source summit
  
 
 

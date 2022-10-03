@@ -43,8 +43,10 @@ Other events  in relation to Embedded software/hardware and IoT.
 |                                     |               |                    |                               |                          |
 ## Past events 2022
 
-|SXSW|Austin|March 10-19 2022|https://www.sxsw.com/ ||
-|Embedded IoT World|April 5-7 2022|Santa Clara|https://tmt.knect365.com/embedded-iot-world/ ||
+|Event name                           |City           |Date                |Link                           | Info                     |
+|-------------------------------------|---------------|--------------------|-------------------------------|--------------------------|
+|SXSW                                 |Austin         |March 10-19 2022    |https://www.sxsw.com/          |                          |
+|Embedded IoT World|April 5-7 2022    |Santa Clara    |https://tmt.knect365.com/embedded-iot-world/ |      |                          |
 
 	
  	 	 	 	 	 

@@ -1,5 +1,5 @@
 
-## Event calendar for 2022
+## Attended Event calendar for 2022
 
 In this calendar we will post the events where thin-edge team members is present.
 
@@ -41,6 +41,82 @@ Other events  in relation to Embedded software/hardware and IoT.
 |Gitex                                |Dubai          |1-14 October        |https://www.gitex.com/ | |
 |ITAP Industrial Automation           |Singapore      |18-20 October       |https://www.industrial-transformation.com/?gclid=Cj0KCQjwkOqZBhDNARIsAACsbfKXGKeGkOnuP3z-gs3OD654Gask_V2Gw-L-rKIo_yLzq0Grg9eDKr8aAo0-EALw_wcB                              |                          |
 |                                     |               |                    |                               |                          |
+## Past events 2022
+
+|SXSW|Austin|March 10-19 2022|https://www.sxsw.com/ ||
+|Embedded IoT World|April 5-7 2022|Santa Clara|https://tmt.knect365.com/embedded-iot-world/ ||
+
+	
+ 	 	 	 	 	 
+ 
+May
+Name of event	Url	Date	Country	City	Comments
+Devoxx UK 	https://www.devoxx.co.uk/ 
+May 11-13 2022 	UK 	London 	closed 
+Building Iot 2022 	https://www.buildingiot.de/index.php 
+May 10-11 2022 	Germany 	Karlsruhe 	closed 
+Hannover Messe 	https://www.hannovermesse.de/en/ 
+May 30 - June 2 2022 	Germany 	Hannover 	closed 
+IoT solutions world congress	https://www.iotsworldcongress.com/ 
+May 10-12 2022 	Spain 	Barcelona 	closed 
+TeqNation  	https://teqnation.com/, 
+May 12 2022, 	Netherlands	Utrecht 	closed 
+UK embedded	https://www.ukembedded.co.uk/	May 12 2022	UK	Coventry	closed
+Embedded vision summit	https://embeddedvisionsummit.com/	May 16-19	California	Sant Clara	closed
+Real-Time and embedded systems and technologies	https://rtest2022.iust.ac.ir/	May 30-31	Iran	Tehran	
+Software AG International User Groups conference	https://www.softwareag.com/en_corporate/company/events/iug-conference.html?source=UserGroup-banner	May 30-Jun 3 2022	Netherlands	The Hague	
+						
+ 
+June
+Name of event	Url	Date	Country	City	Comments
+Devox Poland 	https://devoxx.pl/ 
+June 22-24 2022 	Poland 	Krakow 	Site not updated 
+TNW Conference 	https://thenextweb.com/conference 
+June 16-17 2022	Netherlands 	Amsterdam 	Hard to speak, except when sponsoring, or C-level 
+Embedded Iot Summit 	https://events.linuxfoundation.org/open-source-summit-north-america/about/embedded-iot-summit/ 
+June 21-24 2022 	Texas 	Austin 	closed part of open source summit
+Embedded world 	https://www.embedded-world.de/en 
+June 21-23 2022 	Germany 	Nuremberg 	closed 
+IoTWeek 2022 	https://iotweek.org/ 
+June 20-23 2022 	Ireland 	Dublin 	closed 
+IoT world forum 	https://iotconferences.org/ 
+June 16-17 2022	UK 	London 	closed 
+Internet of things conference 	https://iotcon.de/en/ 
+June 27-29 2022	Germany 	Munich 	closed 
+Collision 	https://collisionconf.com/ 
+June 20-23 2022 	Canada 	Toronto 	Hard to speak, except when sponsoring, or C-level 
+GOTO Amsterdam 
+ 	https://gotoams.nl/ 
+June 12-16 2022 	Netherlands 	Amsterdam 	closed 
+IoT Slam Live 2022	https://iotslam.com/
+	June 22-23 2022	North Carolina	Cary	closed
+Mediterranean Conference on embedded computing	https://mecoconference.me/	June 7-10 2022	Montenegro	Budva	May 15 2022
+Embedded technology convention	https://www.embeddedtechconvention.com/	June 8-9	Nevada	Las Vegas	
+Tweakers developer summit	https://tweakers.net/partners/devsummit2022	June 23, 2022	Netherlands	Utrecht	
+We are developer World Congress	https://www.wearedevelopers.com/world-congress/#/	June 14-15 2022	Germany	Berlin	
+Viva Tech	https://vivatechnology.com/	June 15-18 2022	France	Paris	
+Web Expo	https://www.webexpo.net/prague2022	June 10-12 2022	Czech Republic	Prague	closed
+ 
+July
+Name of event	Url	Date	Country	City	Comments
+Debian Conference	Https://debconf22.debconf.org
+	July 17-24 2022 	Kosovo 	Prizren	
+
+September
+Name of event	Url	Date	Country	City	Comments
+Infobip Shift conference 	https://shift.infobip.com/ 
+September 19-20 2022	Croatia 	Zadar 	May 31 2022 
+Embedded IOT summit Europe 	https://events.linuxfoundation.org/open-source-summit-europe/ 
+September 13-16 2022 	Ireland 	Dublin 	May 30 2022 part of open source summit
+IoT Tech Expo Europe 	https://www.iottechexpo.com/europe/ 
+September 20-2	Netherlands 	Amsterdam 	sponsoring 
+Embedded technology convention	https://www.embeddedtechconventionasia.com/
+	September 28-29	Singapore	Singapore	
+Community leadership conference	https://events.linuxfoundation.org/open-source-summit-europe/
+September 13-16 2022	Ireland 	Dublin 	May 30 2022 part of open source summit
+ 
+
+
 ## Other events 2023
 
 Other events  in relation to Embedded software/hardware and IoT.

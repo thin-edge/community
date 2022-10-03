@@ -36,7 +36,8 @@ Other events  in relation to Embedded software/hardware and IoT.
 |                                     |               |                    |                               |                          |
 |IoT Tech Expo/Edge Computing Expo Global                 |London         |1-2 December 2022   |www.iottechexpo.com/global/    |                          |
 |Open source summit Japan (incl IoT and Edge)| Yokohama              |   5-6 december 2022                 |     https://events.linuxfoundation.org/open-source-summit-japan/                          |                          |
-|Cairo ICT                            |Cairo          |27-30 November       https://cairoict.com/ ||
+|Cairo ICT                            |Cairo          |27-30 November      |https://cairoict.com/ |
+|Sido Paris                           |Paris          |8-9 November        |https://www.sido-paris.com/en/ | | 
 
 ## Other events 2023
 

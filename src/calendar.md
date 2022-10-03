@@ -35,7 +35,7 @@ Other events  in relation to Embedded software/hardware and IoT.
 |IoT 2022                             |Delft          |7-10 November 2022  |iot-conference.org/iot2022/    |                          |
 |                                     |               |                    |                               |                          |
 |IoT Tech Expo/Edge Computing Expo Global                 |London         |1-2 December 2022   |www.iottechexpo.com/global/    |                          |
-|Open source summit Japan (incl IoT and Edge)https://events.linuxfoundation.org/open-source-summit-japan/| Yokohama              |   5-6 december 2022                 |                               |                          |
+|Open source summit Japan (incl IoT and Edge)| Yokohama              |   5-6 december 2022                 |     https://events.linuxfoundation.org/open-source-summit-japan/                          |                          |
 
 ## Other events 2023
 

@@ -48,33 +48,12 @@ With thin-edge.io we want to provide re-usable and modular components, which are
 <br/>
 <br/>
 
-<!-- REFERENCESYSTEMS -->
-
-# Reference Systems
-For an overview of the supported platforms please have a look at the [platform support](docs/src/supported-platforms.md) doc.
-<br/>
-<br/>
-
-<!-- ROADMAP -->
-# Roadmap
-
-If you want to propose features to the maintainers or want to contribute a development of yours, it´s always a good idea to get started with a conversation based on an [issue](https://github.com/thin-edge/thin-edge.io/issues).
-<br/>
-<br/>
-
 <!-- CONTRIBUTING -->
 # Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create.
 How you can contribute to thin-edge.io you can find in the [Contribution Guideline](CONTRIBUTING.md)
 
 Any contributions you make are **greatly appreciated**.
-<br/>
-<br/>
-
-<!-- LICENSE -->
-# License
-
-Distributed under the Apache 2.0 License. See [LICENSE](LICENSE.txt) for more information.
 <br/>
 <br/>
 

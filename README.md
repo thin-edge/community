@@ -52,9 +52,9 @@ Any contributions you make are **greatly appreciated**.
 
 <a href="https://twitter.com/thin_edge_io"><img alt="Twitter" width="40px" src="images/Twitter.png"></img></a>
 
-<a href="mailto:info@thin-edge.io"><img alt="Email" width="40px" src="images/Gmail.png"></img></a>
+<a href="mailto:info@thin-edge.io"><img alt="Email" width="50px" src="images/Gmail.png"></img></a>
 
-<a href="https://discord.com/invite/SvqWp6nrsK"><img alt="Discord" width="40px" src="images/Discord.png"></img></a>
+<a href="https://discord.com/invite/SvqWp6nrsK"><img alt="Discord" width="50px" src="images/Discord.png"></img></a>
 
 <a href="https://www.linkedin.com/company/thin-edge"><img alt="Linkedin" width="40px" src="images/LinkedIN.png"></img></a>
 

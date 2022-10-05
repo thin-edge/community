@@ -51,7 +51,7 @@ Any contributions you make are **greatly appreciated**.
 # Contact
 
 [Twitter](https://twitter.com/thin_edge_io)
-<a href="[ttps://twitter.com/thin_edge_io]/"><img src="images/Twitter.png></img></a>
+<a href="[ttps://twitter.com/thin_edge_io]/"><img src="images/Twitter.png>"</img></a>
 
 [Email](mailto:info@thin-edge.io)
 

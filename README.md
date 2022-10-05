@@ -18,7 +18,7 @@
 </p>
 
 
-# Hi Community Members,
+# Hi Community Members
 
 On this page we post all kinds of information regdaring the thin-edge.io community. This information can be about, new features, events where we are active or new (online content) etc.
 This page  will be regurarly updated with the latest info we have. so check often!
@@ -26,6 +26,8 @@ This page  will be regurarly updated with the latest info we have. so check ofte
 Here you can see some of the[events](/src/calendar.md we are participating in. If you know about other events which are not in the list and you think we should be there, please let us know, via email, twiiter or discord, see links below.
 
 We are currently also working on some topics to get in better contect with our community, which you can see in the issue list.
+
+When you have any questions/reccomendations about the thin-edge.io project or the community, please reach out!
 
 # About The Project
 
@@ -48,8 +50,9 @@ Any contributions you make are **greatly appreciated**.
 <!-- CONTACT -->
 # Contact
 
-Twitter - [@thin_edge_io](https://twitter.com/thin_edge_io)
+[Twitter](https://twitter.com/thin_edge_io)
 
-Email - [info@thin-edge.io](mailto:info@thin-edge.io)
+[Email](mailto:info@thin-edge.io)
 
-Website - [thin-edge.io](https://thin-edge.io)
+[Website](https://thin-edge.io)
+[Discord](https://discord.com/invite/SvqWp6nrsK)

@@ -23,7 +23,7 @@
 On this page we post all kinds of information regdaring the thin-edge.io community. This information can be about, new features, events where we are active or new (online content) etc.
 This page  will be regurarly updated with the latest info we have. so check often!
 
-Here you can see some of the[events](/src/calendar.md we are participating in. If you know about other events which are not in the list and you think we should be there, please let us know, via email, twiiter or discord, see links below.
+Here you can see some of the [events](/src/calendar.md) we are participating in. If you know about other events which are not in the list and you think we should be there, please let us know, via email, twiiter or discord, see links below.
 
 We are currently also working on some topics to get in better contect with our community, which you can see in the issue list.
 
@@ -49,6 +49,9 @@ Any contributions you make are **greatly appreciated**.
 
 <!-- CONTACT -->
 # Contact
+
+|-------------------------------------|---------------|--------------------|-------------------------------|--------------------------|---------|
+|B<a href="https://twitter.com/thin_edge_io"><img alt="Twitter" width="40px" src="images/Twitter.png"></img></a> |<a href="mailto:info@thin-edge.io"><img alt="Email" width="50px" src="images/Gmail.png"></img></a>|<a href="https://discord.com/invite/SvqWp6nrsK"><img alt="Discord" width="50px" src="images/Discord.png"></img></a>|<a href="https://www.linkedin.com/company/thin-edge"><img alt="Linkedin" width="40px" src="images/LinkedIN.png"></img></a>|<a href="https://www.youtube.com/channel/UC9u2hxmXY-cTqM1-aaDBY-w"><img alt="YouTube" width="40px" src="images/Youtube.png"></img></a>|<a href="https://https://medium.com/thin-edge-io"><img alt="Medium" width="40px" src="images/Medium.png"></img></a>|
 
 <a href="https://twitter.com/thin_edge_io"><img alt="Twitter" width="40px" src="images/Twitter.png"></img></a>
 

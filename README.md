@@ -52,10 +52,6 @@ Any contributions you make are **greatly appreciated**.
 
 
 
-<img alt="thin-edge.io on Twitter" width="40px" src="images/Twitter.png" />](https://twitter.com/thin_edge_io)
-
-<img alt="alt_text " width="40px" src="images/Gmail.PNG" />](https://www.google.com/)
-
 <a href="https://twitter.com/thin_edge_io"><img width="40px" src="images/Twitter.png"></img></a>
 
 [Email](mailto:info@thin-edge.io)

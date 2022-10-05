@@ -28,6 +28,7 @@ Future events in relation to Embedded software/hardware and IoT.
 |Hardware Pioneers                            |London             |25 October                    |https://www.hardwarepioneers.com/|
 |Websummit                                    |Lisbon             |1-4 November 2022             |websummit.com/              |
 |IoT 2022                                     |Delft              |7-10 November 2022            |iot-conference.org/iot2022/ |
+|SPS                                          |Nuremberg          |8-10 November                 |https://sps.mesago.com/nuernberg/en.html|
 |Sido Paris                                   |Paris              |8-9 November                  |https://www.sido-paris.com/en/ |
 |Cairo ICT                                    |Cairo              |27-30 November                |https://cairoict.com/       |
 |IoT Tech Expo/Edge Computing Expo Global     |London             |1-2 December 2022             |www.iottechexpo.com/global/ |                          

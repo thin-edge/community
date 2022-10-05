@@ -1,9 +1,7 @@
 
 ## Attended Event calendar for 2022
 
-In this calendar we will post the events where thin-edge team members is present.
-
-
+In this calendar we will post the events where thin-edge.io team members are present.
 
 |Event name                           |City           |Date                |Link                           | Who                      |CFP Submitted|
 |-------------------------------------|---------------|--------------------|-------------------------------|--------------------------|---------|
@@ -13,9 +11,9 @@ In this calendar we will post the events where thin-edge team members is present
 |Things Conference                    |Amsterdam      |22-23 September 2022|www.thethingsnetwork.org/conference/|    Hans Boef        |         |
 |Hardware Pioneers                    |London         |25 October 2022     |https://www.hardwarepioneers.com/| Phillip Hooker         |   x     |
 
-## Other events 2022
+## Future events in 2022
 
-Other events  in relation to Embedded software/hardware and IoT.
+Future events in relation to Embedded software/hardware and IoT.
 
 |Event name                                   |City               |Date                          |Link                        |
 |---------------------------------------------|-------------------|------------------------------|----------------------------|
@@ -36,9 +34,9 @@ Other events  in relation to Embedded software/hardware and IoT.
 |Open source summit Japan (incl IoT and Edge) |Yokohama           |5-6 december 2022             |https://events.linuxfoundation.org/open-source-summit-japan/|               |
 |DevRelCon                                    |Prague             |6-7 December 2002             |https://developerrelations.com/event/devrelcon-prague-2022|
 
-## Other events 2023
+## Future events 2023
 
-Other events  in relation to Embedded software/hardware and IoT.
+Future events in relation to Embedded software/hardware and IoT.
 
 |Event name                           |City           |Date                |Link                           |Info                     |
 |-------------------------------------|---------------|--------------------|-------------------------------|--------------------------|

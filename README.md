@@ -18,38 +18,26 @@
 </p>
 
 
-Hi Community Members,
+# Hi Community Members,
 
-Here we will post all kinds of information regarding the thin-edge.io community. This can basically be anything, from the events where thin-edge content is shared to the latstest news on thin-edge.
+On this page we post all kinds of information regdaring the thin-edge.io community. This information can be about, new features, events where we are active or new (online content) etc.
+This page  will be regurarly updated with the latest info we have. so check often!
 
-ps this will be constantly updated with the latest info we have. so check often!
+Here you can see some of the[events](/src/calendar.md we are participating in. If you know about other events which are not in the list and you think we should be there, please let us know, via email, twiiter or discord, see links below.
 
-1. thin-edge.io members participating in [events](/src/calendar.md)
-2. on the issues page you can see where we are working on regarding content and events.
+We are currently also working on some topics to get in better contect with our community, which you can see in the issue list.
 
-
-## Jump right in:
-* [Install thin-edge.io on your device](docs/src/howto-guides/002_installation.md)
-* [Connect your device to Cumulocity](docs/src/tutorials/connect-c8y.md)
-* [Connect your device to Azure](docs/src/tutorials/connect-azure.md)
-* [Find some projects that work together with thin-edge.io](https://github.com/thin-edge/thin-edge.io_examples)
-* [**Explore the Docs**](https://thin-edge.github.io/thin-edge.io/html/)
-<br/>
-<br/>
-
-<!-- ABOUT THE PROJECT -->
 # About The Project
 
 thin-edge.io is the first open-source and cloud-agnostic edge framework designed for resource-constrained IoT edge devices.
 
-We have started the project to solve the challenge of IoT device enablement in industrial IoT or more precisely to make the integration of IoT devices with cloud and IoT platforms easy and reliable.
-
-With thin-edge.io we want to provide re-usable and modular components, which are not bound to a specific IoT platform, domain model or vendor. It runs on a wide variety of hardware, from small, embedded Linux (Debian, Yocto, etc) devices with very low RAM footprint to large, multi-core industrial servers (IPC). It comes with multi-language support and aims to provide out-of-the box connectivity, security and device management features on any device its deployed on.
+If you want to know more about thin-edge.io, please go to our [project](https://github.com/thin-edge/thin-edge.io) or explore our [documentation](https://thin-edge.github.io/thin-edge.io/html/) 
 <br/>
 <br/>
 
 <!-- CONTRIBUTING -->
 # Contributing
+
 Contributions are what make the open source community such an amazing place to learn, inspire, and create.
 How you can contribute to thin-edge.io you can find in the [Contribution Guideline](CONTRIBUTING.md)
 

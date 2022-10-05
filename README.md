@@ -55,4 +55,11 @@ Any contributions you make are **greatly appreciated**.
 [Email](mailto:info@thin-edge.io)
 
 [Website](https://thin-edge.io)
+
 [Discord](https://discord.com/invite/SvqWp6nrsK)
+
+[LinkedIn](https://www.linkedin.com/company/thin-edge)
+
+[YouTube](https://www.youtube.com/channel/UC9u2hxmXY-cTqM1-aaDBY-w)
+
+[Medium](https://medium.com/thin-edge-io)

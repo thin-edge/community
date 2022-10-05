@@ -48,7 +48,7 @@ Any contributions you make are **greatly appreciated**.
 <br/>
 
 <!-- CONTACT -->
-# Contact
+# Contact and online content
 
 
 <a href="https://twitter.com/thin_edge_io"><img alt="Twitter" width="40px" src="images/Twitter.png"></img></a> <a href="https://www.linkedin.com/company/thin-edge"><img alt="Linkedin" width="40px" src="images/LinkedIN.png"></img></a> <a href="https://www.youtube.com/channel/UC9u2hxmXY-cTqM1-aaDBY-w"><img alt="YouTube" width="40px" src="images/Youtube.png"></img></a> <a href="https://https://medium.com/thin-edge-io"><img alt="Medium" width="40px" src="images/Medium.png"></img></a> 

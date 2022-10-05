@@ -17,24 +17,23 @@ In this calendar we will post the events where thin-edge team members is present
 
 Other events  in relation to Embedded software/hardware and IoT.
 
-|Event name                                   |City               |Date                          |Link                        | 
+|Event name                                   |City               |Date                          |Link                        |
 |---------------------------------------------|-------------------|------------------------------|----------------------------|
-|Hardware Pioneers Max 	                      |London             |25 October 2022               |www.hardwarepioneers.com/                              | 
-|IEEE 8th World Forum on Internet of Things|Yokohama  |26/10-11/11 2022    |wfiot2022.iot.ieee.org/        |                          
-|Internet of Things – vom Sensor bis zur Cloud| Munich|11 October 2022     |events.weka-fachmedien.de/internet-of-things/home/        
-|Embedded wireless systems and networks|Linz          |3-5 October 2022    |ewsn2022.jku.at/               |                          
-|All things open                      |Raleigh        |30/10-2/11 2022     |2021.allthingsopen.org/save-the-date-2022/|               
-|IoT Tech Expo/Edge computing expo                       |Santa Clara    |5-6 October 2022    |www.iottechexpo.com/northamerica/ |                       |
-|Hardware Pioneers                    |London         |25 October          |https://www.hardwarepioneers.com/|                              
-|Websummit                            |Lisbon         |1-4 November 2022   |websummit.com/                 |                          
-|IoT 2022                             |Delft          |7-10 November 2022  |iot-conference.org/iot2022/    |                          
-|                                     |               |                    |                               |                          
-|IoT Tech Expo/Edge Computing Expo Global|London      |1-2 December 2022   |www.iottechexpo.com/global/    |                          
-|Open source summit Japan (incl IoT and Edge)| Yokohama | 5-6 december 2022|https://events.linuxfoundation.org/open-source-summit-japan/                  ||
-|Cairo ICT                            |Cairo          |27-30 November      |https://cairoict.com/ |
-|Sido Paris                           |Paris          |8-9 November        |https://www.sido-paris.com/en/ | | 
-|Gitex                                |Dubai          |1-14 October        |https://www.gitex.com/ | |
-|ITAP Industrial Automation           |Singapore      |18-20 October       |https://www.industrial-transformation.com/?gclid=Cj0KCQjwkOqZBhDNARIsAACsbfKXGKeGkOnuP3z-gs3OD654Gask_V2Gw-L-rKIo_yLzq0Grg9eDKr8aAo0-EALw_wcB                              |                          |
+|Hardware Pioneers Max 	                      |London             |25 October 2022               |www.hardwarepioneers.com/   |
+|IEEE 8th World Forum on Internet of Things   |Yokohama           |26/10-11/11 2022              |wfiot2022.iot.ieee.org/     |                         
+|Internet of Things – vom Sensor bis zur Cloud| Munich            |11 October 2022               |events.weka-fachmedien.de/internet-of-things/home/|     
+|Embedded wireless systems and networks       |Linz               |3-5 October 2022              |ewsn2022.jku.at/            |                          
+|All things open                              |Raleigh            |30/10-2/11 2022               |2021.allthingsopen.org/save-the-date-2022/|
+|IoT Tech Expo/Edge computing expo            |Santa Clara        |5-6 October 2022              |www.iottechexpo.com/northamerica/ |
+|Hardware Pioneers                            |London             |25 October                    |https://www.hardwarepioneers.com/|
+|Websummit                                    |Lisbon             |1-4 November 2022             |websummit.com/              |
+|IoT 2022                                     |Delft              |7-10 November 2022            |iot-conference.org/iot2022/ |
+|IoT Tech Expo/Edge Computing Expo Global     |London             |1-2 December 2022             |www.iottechexpo.com/global/ |                          
+|Open source summit Japan (incl IoT and Edge) |Yokohama           |5-6 december 2022             |https://events.linuxfoundation.org/open-source-summit-japan/|
+|Cairo ICT                                    |Cairo              |27-30 November                |https://cairoict.com/       |
+|Sido Paris                                   |Paris              |8-9 November                  |https://www.sido-paris.com/en/ |
+|Gitex                                        |Dubai              |1-14 October                  |https://www.gitex.com/ | |
+|ITAP Industrial Automation                   |Singapore          |18-20 October                 |https://www.industrial-transformation.com/?gclid=Cj0KCQjwkOqZBhDNARIsAACsbfKXGKeGkOnuP3z-gs3OD654Gask_V2Gw-L-rKIo_yLzq0Grg9eDKr8aAo0-EALw_wcB                              |
 
 ## Other events 2023
 

@@ -50,7 +50,6 @@ Any contributions you make are **greatly appreciated**.
 <!-- CONTACT -->
 # Contact
 
-
 <a href="mailto:info@thin-edge.io"><img alt="Email" width="50px" src="images/Gmail.png"></img></a> <a href="https://discord.com/invite/SvqWp6nrsK"><img alt="Discord" width="50px" src="images/Discord.png"></img></a>
 
-<a href="https://twitter.com/thin_edge_io"><img alt="Twitter" width="40px" src="images/Twitter.png"></img></a> <a href="https://www.linkedin.com/company/thin-edge"><img alt="Linkedin" width="40px" src="images/LinkedIN.png"></img></a> <a href="https://www.youtube.com/channel/UC9u2hxmXY-cTqM1-aaDBY-w"><img alt="YouTube" width="40px" src="images/Youtube.png"></img></a> <a href="https://https://medium.com/thin-edge-io"><img alt="Medium" width="40px" src="images/Medium.png"></img></a>|
+<a href="https://twitter.com/thin_edge_io"><img alt="Twitter" width="40px" src="images/Twitter.png"></img></a> <a href="https://www.linkedin.com/company/thin-edge"><img alt="Linkedin" width="40px" src="images/LinkedIN.png"></img></a> <a href="https://www.youtube.com/channel/UC9u2hxmXY-cTqM1-aaDBY-w"><img alt="YouTube" width="40px" src="images/Youtube.png"></img></a> <a href="https://https://medium.com/thin-edge-io"><img alt="Medium" width="40px" src="images/Medium.png"></img></a>

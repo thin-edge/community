@@ -17,8 +17,8 @@ In this calendar we will post the events where thin-edge team members is present
 
 Other events  in relation to Embedded software/hardware and IoT.
 
-|Event name                                   |City               |Date                          |Link                                                   | 
-|---------------------------------------------|-------------------|------------------------------|-------------------------------------------------------|
+|Event name                                   |City               |Date                          |Link                        | 
+|---------------------------------------------|-------------------|------------------------------|----------------------------|
 |Hardware Pioneers Max 	                      |London             |25 October 2022               |www.hardwarepioneers.com/                              | 
 |IEEE 8th World Forum on Internet of Things|Yokohama  |26/10-11/11 2022    |wfiot2022.iot.ieee.org/        |                          
 |Internet of Things – vom Sensor bis zur Cloud| Munich|11 October 2022     |events.weka-fachmedien.de/internet-of-things/home/        

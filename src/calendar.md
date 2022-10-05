@@ -24,16 +24,16 @@ Other events  in relation to Embedded software/hardware and IoT.
 |Internet of Things – vom Sensor bis zur Cloud| Munich            |11 October 2022               |events.weka-fachmedien.de/internet-of-things/home/|     
 |Embedded wireless systems and networks       |Linz               |3-5 October 2022              |ewsn2022.jku.at/            |                          
 |All things open                              |Raleigh            |30/10-2/11 2022               |2021.allthingsopen.org/save-the-date-2022/|
+|Gitex                                        |Dubai              |1-14 October                  |https://www.gitex.com/ | |
 |IoT Tech Expo/Edge computing expo            |Santa Clara        |5-6 October 2022              |www.iottechexpo.com/northamerica/ |
+|ITAP Industrial Automation                   |Singapore          |18-20 October                 |https://www.industrial-transformation.com/?gclid=Cj0KCQjwkOqZBhDNARIsAACsbfKXGKeGkOnuP3z-gs3OD654Gask_V2Gw-L-rKIo_yLzq0Grg9eDKr8aAo0-EALw_wcB  
 |Hardware Pioneers                            |London             |25 October                    |https://www.hardwarepioneers.com/|
 |Websummit                                    |Lisbon             |1-4 November 2022             |websummit.com/              |
 |IoT 2022                                     |Delft              |7-10 November 2022            |iot-conference.org/iot2022/ |
-|IoT Tech Expo/Edge Computing Expo Global     |London             |1-2 December 2022             |www.iottechexpo.com/global/ |                          
-|Open source summit Japan (incl IoT and Edge) |Yokohama           |5-6 december 2022             |https://events.linuxfoundation.org/open-source-summit-japan/|
-|Cairo ICT                                    |Cairo              |27-30 November                |https://cairoict.com/       |
 |Sido Paris                                   |Paris              |8-9 November                  |https://www.sido-paris.com/en/ |
-|Gitex                                        |Dubai              |1-14 October                  |https://www.gitex.com/ | |
-|ITAP Industrial Automation                   |Singapore          |18-20 October                 |https://www.industrial-transformation.com/?gclid=Cj0KCQjwkOqZBhDNARIsAACsbfKXGKeGkOnuP3z-gs3OD654Gask_V2Gw-L-rKIo_yLzq0Grg9eDKr8aAo0-EALw_wcB                              |
+|Cairo ICT                                    |Cairo              |27-30 November                |https://cairoict.com/       |
+|IoT Tech Expo/Edge Computing Expo Global     |London             |1-2 December 2022             |www.iottechexpo.com/global/ |                          
+|Open source summit Japan (incl IoT and Edge) |Yokohama           |5-6 december 2022             |https://events.linuxfoundation.org/open-source-summit-japan/|               |
 |DevRelCon                                    |Prague             |6-7 December 2002             |https://developerrelations.com/event/devrelcon-prague-2022|
 
 ## Other events 2023

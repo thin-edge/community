@@ -1,4 +1,5 @@
 # thin-edge community
+![GitHub last commit](https://img.shields.io/github/last-commit/thin-edge/community)
 ![GitHub Org's stars](https://img.shields.io/github/stars/thin-edge?style=social)
  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.txt)
 [![Discord Shield](https://discord.com/api/guilds/832211156520796171/widget.png?style=shield)](https://discord.gg/SvqWp6nrsK)

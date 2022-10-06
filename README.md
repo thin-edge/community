@@ -18,7 +18,7 @@
 </p>
 
 
-# Hi Community Members
+# Hi Community Members!
 
 On this page we post all kinds of information regdaring the thin-edge.io community. This information can be about, new features, events where we are active or new (online content) etc.
 This page  will be regurarly updated with the latest info we have. so check often!

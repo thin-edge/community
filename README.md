@@ -1,5 +1,6 @@
 # thin-edge community
  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.txt)
+ [!]Github search hit counter](/discord/SvqWp6nrsK)/github/search/:user/:repo/:query
 [![Discord Shield](https://discord.com/api/guilds/832211156520796171/widget.png?style=shield)](https://discord.gg/SvqWp6nrsK)
 [![Twitter Badge](https://img.shields.io/twitter/follow/thin_edge_io?style=social)](https://twitter.com/thin_edge_io)
 

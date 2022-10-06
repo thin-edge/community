@@ -2,7 +2,7 @@
  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.txt)
 [![Discord Shield](https://discord.com/api/guilds/832211156520796171/widget.png?style=shield)](https://discord.gg/SvqWp6nrsK)
 [![Twitter Badge](https://img.shields.io/twitter/follow/thin_edge_io?style=social)](https://twitter.com/thin_edge_io)
-[![Twitter Badge](https://img.shields.io/twitter/follow/hansb001?style=social)](https://twitter.com/hansb001)
+
 
 
 

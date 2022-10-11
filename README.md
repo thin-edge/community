@@ -26,14 +26,14 @@
 
 # Hi Community Members!
 
-On this page we post all kinds of information regarding the thin-edge.io community. This information can be about: new features, events where we are active or new (online content) etc.
-This page  will be regurarly updated with the latest info we have, so check often!
+On this page, we post all kinds of information regarding the thin-edge.io community. This information can be about: new features, events where we are active or new (online content) etc.
+This page will be regularly updated with the latest info we have, so check often!
 
-Here you can see some of the [events](/src/calendar.md) we are participating in. If you know about other events which are not in the list and you think we should be there, please let us know, via email, twiiter or discord, see links below.
+Here you can see some of the [events](/src/calendar.md) we are participating in. If you know about other events which are not on the list and you think we should be there, please let us know, via email, Twitter or Discord, see the links below.
 
-We are currently also working on some topics to get in better contect with our community, which you can see in the issue list.
+We are currently also working on some topics to get in better contact with our community, which you can see in the issue list.
 
-When you have any questions/reccomendations about the thin-edge.io project or the community, please reach out!
+When you have any questions/recommendations about the thin-edge.io project or the community, please reach out!
 
 # About The Project
 

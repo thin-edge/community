@@ -26,7 +26,7 @@
 
 # Hi Community Members!
 
-On this page we post all kinds of information regdaring the thin-edge.io community. This information can be about, new features, events where we are active or new (online content) etc.
+On this page we post all kinds of information regarding the thin-edge.io community. This information can be about, new features, events where we are active or new (online content) etc.
 This page  will be regurarly updated with the latest info we have. so check often!
 
 Here you can see some of the [events](/src/calendar.md) we are participating in. If you know about other events which are not in the list and you think we should be there, please let us know, via email, twiiter or discord, see links below.

@@ -7,9 +7,10 @@ In this calendar we will post the events where thin-edge.io team members are pre
 |-------------------------------------|---------------|--------------------|-------------------------------|--------------------------|---------|
 |Building IoT 2022                    |Karlsruhe      |9-11 May 2022       |www.buildingiot.de             |Christoph Stoidner        | x       |
 |We are developer World Congress      |Berlin         |14-15 June 2022     |www.wearedevelopers.com        |Stefan Witschel           |         |
-|Edge Computing Expo                  |Amsterdam      |20-21 September 2022|www.edgecomputing-expo.com/europe/ |Hans Boef                 |         |
+|Edge Computing Expo                  |Amsterdam      |20-21 September 2022|www.edgecomputing-expo.com/europe/ |Hans Boef             |         |
 |Things Conference                    |Amsterdam      |22-23 September 2022|www.thethingsnetwork.org/conference/|    Hans Boef        |         |
-|Hardware Pioneers                    |London         |25 October 2022     |https://www.hardwarepioneers.com/| Phillip Hooker         |   x     |
+|Hardware Pioneers                    |London         |25 October 2022     |https://www.hardwarepioneers.com/| Phillip Hooker         |  x      |
+|India Electronics Week               |Bengaluru      |23-14 November      |https://www.indiaelectronicsweek.com/| Roshan Kumar        | x      |
 
 ## Future events in 2022
 

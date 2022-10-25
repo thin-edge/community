@@ -3,7 +3,7 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/thin-edge?style=social)
  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.txt)
 [![Discord Shield](https://discord.com/api/guilds/832211156520796171/widget.png?style=shield)](https://discord.gg/SvqWp6nrsK)
-[![Discord Shield2](https://discord.com/api/v6/invites/${832211156520796171}?with_counts=true)
+[![Discord Shield2](https://discord.com/api/v6/invites/${SvqWp6nrsK}?with_counts=true)
 [![Twitter Badge](https://img.shields.io/twitter/follow/thin_edge_io?style=social)](https://twitter.com/thin_edge_io)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC9u2hxmXY-cTqM1-aaDBY-w?style=social)
 

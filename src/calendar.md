@@ -10,6 +10,7 @@ In this calendar we will post the events where thin-edge.io team members are pre
 |Edge Computing Expo                  |Amsterdam      |20-21 September 2022|www.edgecomputing-expo.com/europe/ |Hans Boef             |         |
 |Things Conference                    |Amsterdam      |22-23 September 2022|www.thethingsnetwork.org/conference/|    Hans Boef        |         |
 |Hardware Pioneers                    |London         |25 October 2022     |https://www.hardwarepioneers.com/| Phillip Hooker         |  x      |
+|SPS                                  |Nuremberg      |8-10 November 2022  |https://sps.mesago.com/nuernberg/en.html| Andrej Schreiner|         |
 |IoT Show @ India Electronics Week    |Bengaluru      |23-25 November      |https://www.iotshow.in/        | Roshan Kumar             | x       |
 
 ## Future events in 2022
